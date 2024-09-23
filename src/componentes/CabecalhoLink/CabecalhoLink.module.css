@@ -1,0 +1,18 @@
+.link__cabecalho{
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    list-style: none;
+    text-decoration: none;
+    padding: 1em;
+}
+
+/* .link__cabecalho{
+    color: var(--cinza-claro);
+    list-style: none;
+}
+
+.link__ativo{
+    text-decoration: underline;
+    font-weight: 600;
+} */
